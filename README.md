@@ -2,8 +2,8 @@
 Repository containing the source code behind the manuscript A Hybrid Model for Simulating Grazing Herds in Real-time published in the Computer Animation and Virtual Worlds journal (https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1914).
 
 # Authors
-Jure Demšar, Faculty of Computer and Information Science, University of Ljubljana
-Will Blewitt, School of Computing, Electronics and Maths, Coventry University
+Jure Demšar, Faculty of Computer and Information Science, University of Ljubljana  
+Will Blewitt, School of Computing, Electronics and Maths, Coventry University  
 Iztok Lebar Bajec, Faculty of Computer and Information Science, University of Ljubljana
 
 # Abstract
