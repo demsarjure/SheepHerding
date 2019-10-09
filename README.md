@@ -1,5 +1,5 @@
 # SheepHerding
-Repository containing the source code behind the manuscript A Hybrid Model for Simulating Grazing Herds in Real-time.
+Repository containing the source code behind the manuscript A Hybrid Model for Simulating Grazing Herds in Real-time published in the Computer Animation and Virtual Worlds Journal (https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1914).
 
 # Authors
 Jure Demšar, Faculty of Computer and Information Science, University of Ljubljana
